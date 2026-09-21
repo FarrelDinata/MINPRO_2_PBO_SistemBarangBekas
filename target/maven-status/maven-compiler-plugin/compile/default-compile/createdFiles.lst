@@ -1,0 +1,4 @@
+model\DonasiPakaian.class
+model\DonasiElektronik.class
+model\Donasi.class
+com\mycompany\sistendonasibarangbekas\SistenDonasiBarangBekas.class
